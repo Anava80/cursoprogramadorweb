@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color: blue;
+    text-shadow: 2px 2px 21px rgba(0,0,0,0.6);
+    font-family: Arial;
+}
+img{
+    filter: grayscale(100%);
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 100px;
+}
+
+img:hover{
+    filter: grayscale(0%);
+}
+
+h2{
+    text-transform: uppercase;
+}
+
+p{
+    color: blue;
+}
+.destacados{
+    color:violet;
+    font-weight: bold;
+}
+
+ul{
+    color: green;
+}
+
+ol{
+    color: red;
+}
+
+#amarillo{
+    background-color: yellow;
+    width: 300px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+#azul{
+    background-color: blue;
+    width: 300px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
