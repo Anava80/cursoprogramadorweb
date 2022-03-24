@@ -1,0 +1,16 @@
+blockquote{ 
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 21px rgba(0,0,0,0.6);
+    font-family: Arial;
+    }
+    
+    img{
+        filter: grayscale(100%);
+        border-radius: 10px 10px 10px 10px;
+    }
+
+    img:hover{
+        filter: grayscale(0%);
+    }
+    
